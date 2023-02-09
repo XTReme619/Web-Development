@@ -1,0 +1,32 @@
+
+    html{font-family: 'Silkscreen', cursive;} 
+
+
+body{
+    background-image: url("images/Backgound.jpg");
+    background-size: 1920px 1080px;
+ 
+}
+
+a{
+    
+        color: aliceblue;
+        background-color: transparent;
+        text-decoration: none;
+     
+}
+
+#p:hover{
+    transition: 5ms;
+    background-color: blueviolet;
+    margin-top: -20px;
+    cursor: pointer;
+    border: solid 2.5px;
+}
+
+h1{
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
+}
